@@ -6,3 +6,7 @@
 [![Documentation](https://img.shields.io/badge/Documentation-Rubkey-blue?style=flat&logo=github)](https://CN-codetansarian.github.io/Rubkey_documentation/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN-codetansarian&layout=compact&theme=dark&hide_border=true)
+
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CN-codetansarian&theme=react-dark&hide_border=true)
