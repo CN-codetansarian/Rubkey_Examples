@@ -9,4 +9,4 @@
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CN-codetansarian&theme=react-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN-codetansarian&repo=Rubkey_examples&layout=compact&theme=dark&hide_border=true)
